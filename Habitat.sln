@@ -200,9 +200,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Foundation.Testing
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EditorNotification", "EditorNotification", "{8AB60195-3E89-448F-95E7-0722711AB782}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Feature.EditorNotification", "src\Feature\EditorNotification\Sitecore.Feature.EditorNotification\Sitecore.Feature.EditorNotification.csproj", "{9F2A7770-03A1-4712-8989-E16739FAD00D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Feature.EditorNotification", "src\Feature\EditorNotification\code\Sitecore.Feature.EditorNotification.csproj", "{9F2A7770-03A1-4712-8989-E16739FAD00D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Feature.EditorNotification.Tests", "Sitecore.Feature.EditorNotification.Tests\Sitecore.Feature.EditorNotification.Tests.csproj", "{E12DA6DC-D631-412B-9AF2-5D989B1EEBF1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Feature.EditorNotification.Tests", "src\Feature\EditorNotification\tests\Sitecore.Feature.EditorNotification.Tests.csproj", "{E12DA6DC-D631-412B-9AF2-5D989B1EEBF1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
